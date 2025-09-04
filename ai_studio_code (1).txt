@@ -1,0 +1,34 @@
+# IN2SCIENCE MVP Project Overview
+
+## 1. Core Purpose
+IN2SCIENCE is an e-commerce laboratory finder app designed to connect QC control/engineering workplaces with reliable Emergency Service Providers (ESP) for critical laboratory services. It also serves commercial and industrial clients seeking third-party analysis services, creating a marketplace for service providers.
+
+## 2. Problem Statement (MVP Focus)
+The MVP solves the urgent need for workplaces to find certified emergency service providers immediately during equipment failures to avoid costly production delays.
+
+## 3. Target Users
+*   **Workplaces (QC Managers)**: Need urgent lab services.
+*   **Emergency Service Providers (ESPs)**: Want to expand their client base.
+*   **Commercial/Industrial Clients**: Need to find third-party analysis services.
+*   **System Administrator**: Manages onboarding and platform oversight.
+
+## 4. Core MVP Features
+*   User registration and profiles for all user types.
+*   Service provider listing and capability showcase.
+*   Job posting system.
+*   Basic matching algorithm.
+*   In-app messaging.
+*   Manual payment processing.
+
+## 5. Non-Goals for MVP
+*   Direct laboratory testing.
+*   Equipment sales/leasing.
+*   Long-term staffing solutions.
+*   Regulatory compliance consulting.
+*   AI recommendations, automated payments, or advanced analytics dashboards.
+
+## 6. Success Metrics (Months 1-4)
+*   Onboard 50 service providers.
+*   Onboard 20 workplace clients.
+*   Measure Monthly Active Users (MAU).
+*   Measure Time-to-match for job postings.
